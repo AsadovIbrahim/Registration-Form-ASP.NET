@@ -43,14 +43,23 @@ namespace Register_Form_Project.Controllers
             }
         }
         [HttpPost]
-        public IActionResult Login(string username,string password)
+        public IActionResult Login(string username, string password)
         {
             if (ModelState.IsValid)
             {
-                var login = UserDB.Users.FirstOrDefault(u => u.Username == username && u.Password==password);
-                return View("Login",login);
+                var login = UserDB.Users.FirstOrDefault(u => u.Username == username && u.Password == password);
+                if (login != null)
+                {
+
+                    return RedirectToAction("GetAllUsers");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Invalid username or password!");
+                }
             }
-            return RedirectToAction("GetAllUsers");
+            var user = new User();
+            return View(user);
         }
         [HttpGet]
 
@@ -62,9 +71,9 @@ namespace Register_Form_Project.Controllers
         [HttpGet]
         public IActionResult GetAllUsers()
         {
-            UserDB.Users.ToList();
-            return View();
+            var users=UserDB.Users.ToList();
+            return View(users);
         }
-        
+
     }
 }

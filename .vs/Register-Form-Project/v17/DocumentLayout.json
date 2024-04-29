@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|c:\\users\\asus\\source\\repos\\register-form-project\\register-form-project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|solutionrelative:register-form-project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|c:\\users\\asus\\source\\repos\\register-form-project\\register-form-project\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|solutionrelative:register-form-project\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|c:\\users\\asus\\source\\repos\\register-form-project\\register-form-project\\validators\\fluentvalidators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|solutionrelative:register-form-project\\validators\\fluentvalidators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|c:\\users\\asus\\source\\repos\\register-form-project\\register-form-project\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|solutionrelative:register-form-project\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|c:\\users\\asus\\source\\repos\\register-form-project\\register-form-project\\services\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|solutionrelative:register-form-project\\services\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|c:\\users\\asus\\source\\repos\\register-form-project\\register-form-project\\views\\user\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|solutionrelative:register-form-project\\views\\user\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|c:\\users\\asus\\source\\repos\\register-form-project\\register-form-project\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14CAF6F0-639C-4098-9929-6B426CD8FD0E}|Register-Form-Project\\Register-Form-Project.csproj|solutionrelative:register-form-project\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 223,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Views\\User\\GetAllUsers.cshtml",
+              "RelativeDocumentMoniker": "Register-Form-Project\\Views\\User\\GetAllUsers.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Views\\User\\GetAllUsers.cshtml",
+              "RelativeToolTip": "Register-Form-Project\\Views\\User\\GetAllUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T02:04:02.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\users.json",
+              "RelativeDocumentMoniker": "Register-Form-Project\\users.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\users.json",
+              "RelativeToolTip": "Register-Form-Project\\users.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T01:56:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Validators\\FluentValidators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Register-Form-Project\\Validators\\FluentValidators\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Validators\\FluentValidators\\UserValidator.cs",
+              "RelativeToolTip": "Register-Form-Project\\Validators\\FluentValidators\\UserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:53:37.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDB.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Services\\UserDB.cs",
+              "RelativeDocumentMoniker": "Register-Form-Project\\Services\\UserDB.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Services\\UserDB.cs",
+              "RelativeToolTip": "Register-Form-Project\\Services\\UserDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:53:31.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Register-Form-Project\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Register-Form-Project\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:51:38.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Register-Form-Project\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Register-Form-Project\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T01:50:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Views\\User\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Register-Form-Project\\Views\\User\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Register-Form-Project\\Register-Form-Project\\Views\\User\\SignUp.cshtml",
+              "RelativeToolTip": "Register-Form-Project\\Views\\User\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T01:49:59.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

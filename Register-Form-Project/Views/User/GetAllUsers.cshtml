@@ -1,12 +1,15 @@
 ﻿@model List<User>
 
-<ul>
-    @foreach (var user in Model)
-    {
-        <li>ID: @user.Id</li>
-        <li>Name: @user.Name</li>
-        <li>Surname: @user.Surname</li>
-        <li>Email: @user.Email</li>
-        <li>Username: @user.Username</li>
-    }
-</ul>
+<h1 class="text-center">Users</h1>
+@foreach (var item in Model)
+{
+    <div class="card container mt-3" style="width: 40rem;">
+        <div class="card-body">
+            <h5 class="card-title">ID:@item.Id</h5>
+            <h5 class="card-title">Name:@item.Name</h5>
+            <h5 class="card-subtitle mb-2 text-body-secondary">Surname:@item.Surname</h5>
+            <h5 class="card-text">Username:@item.Username</h5>
+            <h5 class="card-text">Email:@item.Email</h5>
+        </div>
+    </div>
+}

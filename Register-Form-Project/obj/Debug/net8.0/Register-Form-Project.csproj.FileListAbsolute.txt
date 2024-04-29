@@ -134,3 +134,4 @@ C:\Users\ASUS\source\repos\Register-Form-Project\Register-Form-Project\bin\Debug
 C:\Users\ASUS\source\repos\Register-Form-Project\Register-Form-Project\bin\Debug\net8.0\runtimes\win-x86\native\sqlceme40.dll
 C:\Users\ASUS\source\repos\Register-Form-Project\Register-Form-Project\bin\Debug\net8.0\runtimes\win-x86\native\sqlceqp40.dll
 C:\Users\ASUS\source\repos\Register-Form-Project\Register-Form-Project\bin\Debug\net8.0\runtimes\win-x86\native\sqlcese40.dll
+C:\Users\ASUS\source\repos\Register-Form-Project\Register-Form-Project\obj\Debug\net8.0\Register-Form-Project.sourcelink.json
